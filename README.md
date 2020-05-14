@@ -1,2 +1,1 @@
-# Hello
-first
+git is really simple.
